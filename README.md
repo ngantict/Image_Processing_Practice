@@ -8,7 +8,7 @@
 2. Resize image
 3. Change brightness
 4. Histogram equalization
-5. # Image thresholding
+5. Image thresholding
 
 ## Labwork 2:
 
@@ -16,14 +16,14 @@
 2. Apply averaging filter, Gaussian filter, median filter
 3. Add Gaussian noise, Salt and Pepper noise, Periodic noise
 4. Apply filters to denoise images
-5. # Transform periodic noisy image to frequency domain, denoise, and transform back to spatial domain.
+5. Transform periodic noisy image to frequency domain, denoise, and transform back to spatial domain.
 
 ## Labwork 3:
 
 1. Apply Laplacian filter, Sobel filter
 2. Apply Canny filter
 3. Apply Hough Lines
-4. # Apply different segmentation and compare with global thresholding
+4. Apply different segmentation and compare with global thresholding
 
 ## Erosion_dilation:
 
